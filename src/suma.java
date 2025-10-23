@@ -18,7 +18,7 @@ public class suma {
 
         int resultadoDeMiSuma = suma(numero1, numero2);
 
-        String resultadoAImprimir = "La suma de " + numero1 + " es " + numero2 + " es = " + resultadoDeMiSuma;
+        String resultadoAImprimir = "La suma de " + numero1 + " + " + numero2 + " es = " + resultadoDeMiSuma;
 
         System.out.println(resultadoAImprimir);
     }
